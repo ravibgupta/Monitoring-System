@@ -63,3 +63,7 @@ This system has two parts:
   `EXIT`
   
   ![](images/8.PNG)
+  
+  ## Time taken to complete the Task
+  
+  It took me 1.5 hours to complete the task consisting of all the tasks involved in the challenge.
